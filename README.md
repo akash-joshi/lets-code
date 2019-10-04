@@ -6,4 +6,4 @@ Make a Pull Request with folder structure ```Language-Name/Your-Project```.
 
 Each side project needs running instructions in the form of a README.
 
-Ensure your projects are running locally before uploading them.
+Ensure your projects are running locally before uploading them, I review all code.
