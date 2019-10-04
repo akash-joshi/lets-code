@@ -1,4 +1,4 @@
-# lets-node
+# lets-code
 
 A repository accepting Hacktoberfest submissions for interesting side-projects.
 
