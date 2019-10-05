@@ -1,11 +1,9 @@
-# lets-node
+# lets-code
 
-## Objectives
+A repository accepting Hacktoberfest submissions for interesting side-projects.
 
-1. Make a express app which routes to 2 files
+Make a Pull Request with folder structure ```Language-Name/Your-Project```. 
 
-'/' -> index.html
+Each side project needs running instructions in the form of a README.
 
-'/page-2' -> 'page-2.html'
-
-So you make index.html, and when you go to '/' of your server, index.html render on the browser
+Ensure your projects are running locally before uploading them, I review all code.
