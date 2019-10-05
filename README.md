@@ -2,10 +2,10 @@
 
 ## Objectives
 
-1. Make a express app which routes to 2 files
+We are building simple express app which routes two files.
 
-'/' -> index.html
+1. '/' -> index.html ( this is root page. )
 
-'/page-2' -> 'page-2.html'
+2. '/page-2' -> 'page-2.html' ( this is another page. )
 
-So you make index.html, and when you go to '/' of your server, index.html render on the browser
+So you make index.html, and when you go to '/' of your server, index.html render on the browser.
